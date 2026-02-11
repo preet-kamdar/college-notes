@@ -2,6 +2,12 @@
 **Date:** 2026-02-11
 **Subject:** AI/ML
 
+## My To-Do List
+- [ ] This is an empty box
+- [x] This is a checked box
+- [ ] Implement backpropagation
+
+
 ## 1. The Perceptron
 A perceptron is the fundamental unit of a neural network. It takes inputs, applies weights, and passes the sum through an activation function.
 
